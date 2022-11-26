@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌🏽, I'm Nabil</h1>
 <h3 align="center">A final year Software Engineering student from The Netherlands</h3>
 
-- 🔭 I’ll always be working on.. **personal programming projects, being a teamplayer and a better human**
+- 🔭 I’ll always be working on **personal programming projects, being a teamplayer and a better human**
 
 - 🌱 I’m currently learning **React Native, Flutter, and everything inbetween**
 
