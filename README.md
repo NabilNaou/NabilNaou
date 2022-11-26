@@ -17,6 +17,8 @@
 
 - ♋ Fun facts: **Im huge into reading books about programming, but also psychology and self-helps books. I like collecting perfumes, im interested in animal rights and practice mindfulness. I like to read up on history and biology and practice both pilates and running as a sport.**
 
+Feel free to hit me up even if its not work related.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nabilnaou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabilnaou" height="30" width="40" /></a>
