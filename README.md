@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌🏽, I'm Nabil ‍👨‍🦱 </h1>
 <h3 align="center">A final year Software Engineering student from The Netherlands</h3>
 
-- 🔭 I’ll always be improving and working on **personal programming projects, being a teamplayer and being a better human**
+- 📚 I’ll always be improving and working on **personal programming projects, being a teamplayer and being a better human**
 
 - 🌱 I’m currently learning **React Native, Flutter, and everything inbetween**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me? **linkedin.com/in/nabilnaou**
 
-- 🇳🇱 What languages do I speak? **I speak English and Dutch Fluently. I have limited proficiency in German and Arabic.
+- ⚡ What languages do I speak? **I speak English and Dutch Fluently. I have limited proficiency in German and Arabic.
 
-- ⚡ Fun facts: **Im huge into reading books about programming, but also psychology and self-helps books. I like collecting perfumes, im interested in animal rights and practice mindfulness. I like to read up on history and biology and practice both pilates and running as a sport.**
+- ♋ Fun facts: **Im huge into reading books about programming, but also psychology and self-helps books. I like collecting perfumes, im interested in animal rights and practice mindfulness. I like to read up on history and biology and practice both pilates and running as a sport.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
