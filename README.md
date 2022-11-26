@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **linkedin.com/in/nabilnaou**
 
-- ⚡ Fun fact **Im huge into reading books, psychology, collecting perfumes, animal rights and mindfullness.**
+- ⚡ Fun facts: **Im huge into reading books, psychology, collecting perfumes, animal rights and mindfullness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
