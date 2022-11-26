@@ -13,7 +13,9 @@
 
 - 📫 How to reach me? **linkedin.com/in/nabilnaou**
 
-- ⚡ Fun facts: **Im huge into reading books about programming such as o'reilly, but also psychology and self-helps books. I like collecting perfumes, im interested in animal rights and practice mindfulness. I like to read up on history and biology and practice both pilates and running as a sport.**
+- 🇳🇱 What languages do I speak? **I speak English and Dutch Fluently. I have limited proficiency in German and Arabic.
+
+- ⚡ Fun facts: **Im huge into reading books about programming, but also psychology and self-helps books. I like collecting perfumes, im interested in animal rights and practice mindfulness. I like to read up on history and biology and practice both pilates and running as a sport.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
