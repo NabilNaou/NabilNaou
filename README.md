@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙌🏽, I'm Nabil ‍👨‍🦱 </h1>
+<h1 align="center">Hi 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
 <h3 align="center">A final year Software Engineering student from The Netherlands</h3>
 
 - 📚 I’ll always be improving and working on **personal programming projects, being a teamplayer and being a better human**
