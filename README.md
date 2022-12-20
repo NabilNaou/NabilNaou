@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github!](Github!)
 
-- 💬 Ask me about **Java and academic concepts such as OOP.**
+- 💬 Ask me about **Java and academic concepts related to programming**
 
 - 📫 How to reach me? **linkedin.com/in/nabilnaou**
 
