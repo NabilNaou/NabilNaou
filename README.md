@@ -1,21 +1,22 @@
-<h1 align="center">Hi 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
-<h3 align="center">A final year Software Engineering student from The Netherlands</h3>
+<h1 align="center">Hi there! 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
+<h3 align="center">A final year Software Engineering student born in the Netherlands</h3>
 
 - 📚 I’ll always be improving and working on **personal programming projects, being a teamplayer and being a better human**
 
-- 🌱 I’m currently learning **React Native, Flutter, and everything inbetween**
+- 🌱 Currently, I'm focusing on learning **React Native** and **Flutter**, and I'm always open to collaborating on projects where I can continue to learn and grow as a developer.
 
 - 👯 I’m looking to collaborate on **anything where I can keep learning and growing**
 
-- 👨‍💻 All of my projects are available at [Github!](Github!)
+- 👨‍💻 All of my note-worthy projects are available at **Github**
 
-- 📫 How to reach me? **linkedin.com/in/nabilnaou**
+- 📫  If you're interested in collaborating or just want to connect, feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
 
-- ⚡ What languages do I speak? **I speak English and Dutch Fluently. I have limited proficiency in German and Arabic.**
+- ⚡ What languages do I speak? In addition to **programming**, I'm also fluent in **English** and **Dutch**, and have limited proficiency in **German** and **Arabic**.
 
-- ♋ Fun facts: **Im huge into reading books about programming, but also psychology, self-helps and fiction books. I like collecting perfumes, im interested in animal rights and practice mindfulness such as daily meditation and yoga. I like to read up on history and biology and practice both pilates and running as a sport.**
+- ♋ Fun facts: Outside of coding, I enjoy reading **books** on programming, psychology, self-help and fiction. I also enjoy collecting **perfumes**, practicing **mindfulness**, and being active through **sports** such as pilates and running. I am also interested in **animal rights** and **history**.
 
-Feel free to hit me up even if its not work related.
+Don't hesitate to reach out to me even if it's not work-related. I'm always happy to connect and chat about a variety of topics.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
