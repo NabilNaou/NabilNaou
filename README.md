@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
 <h3 align="center">A final year Software Engineering student born in the Netherlands</h3>
 
-- 📚 I’ll always be improving and working on **personal programming projects, being a teamplayer and being a better human**
+- 📚 I’m always striving to improve my skills and work on personal programming projects. I believe in being a team player and constantly working on becoming a better person.
 
 - 🌱 Currently, I'm focusing on learning **React Native** and **Flutter**, and I'm always open to collaborating on projects where I can continue to learn and grow as a developer.
 
