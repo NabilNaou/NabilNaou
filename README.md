@@ -3,7 +3,7 @@
 
 - 📚 I’m always striving to improve my skills and work on personal programming projects. I believe in being a team player and constantly working on becoming a better person.
 
-- 🌱 Currently, I'm focusing on learning **React Native** and **Flutter**, and I'm always open to collaborating on projects where I can continue to learn and grow as a developer.
+- 🌱 Currently, I'm focusing on learning **React Native** and **Rust**, and I'm always open to collaborating on projects where I can continue to learn and grow as a developer.
 
 - 👯 I’m looking to collaborate on **anything where I can keep learning and growing**
 
