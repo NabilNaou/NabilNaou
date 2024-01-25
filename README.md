@@ -1,22 +1,15 @@
 <h1 align="center">Hi there! 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
-<h3 align="center">A final year Software Engineering student born in the Netherlands</h3>
+<h3 align="center">Im a software engineering graduate who is born, and lives in, The Netherlands.</h3>
 
-- 📚 I’m always striving to improve my skills and work on personal programming projects. I believe in being a team player and constantly working on becoming a better person.
-
-- 🌱 Currently, I'm focusing on learning **React Native** and **Rust**, and I'm always open to collaborating on projects where I can continue to learn and grow as a developer.
-
-- 👯 I’m looking to collaborate on **anything where I can keep learning and growing**
-
-- 👨‍💻 All of my note-worthy projects are available at **Github**
+- 📚 I’m always trying to improve my skills and work on personal programming projects.
 
 - 📫  If you're interested in collaborating or just want to connect, feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
 
-- ⚡ What languages do I speak? In addition to **programming**, I'm also fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited proficiency in **German** and **Arabic** 🇲🇦.
+- ⚡ What languages do I speak? I'm  fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
 
-- ♋ Fun facts: Outside of coding, I enjoy reading **books** on programming, psychology, self-help and fiction. I also enjoy collecting **perfumes**, practicing **mindfulness**, and being active through **sports** such as pilates and running. I am also interested in **animal rights** and **history**.
+- ♋ Fun facts: Outside of coding, I enjoy reading **books** on psychology, self-help and fiction. I also enjoy collecting **perfumes**, practicing **meditation**, and **sports** such as pilates and running.
 
-Don't hesitate to reach out to me even if it's not work-related. I'm always happy to connect and chat about a variety of topics.
-
+Don't hesitate to reach out to me even if it's not work-related! We can always chat.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
