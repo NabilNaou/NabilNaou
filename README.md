@@ -1,15 +1,12 @@
-<h1 align="center">Hi there! 🙌🏽, I'm Nabil ‍👨🏻‍🦱 </h1>
-<h3 align="center">Im a software engineering graduate who is born, and lives in, The Netherlands.</h3>
+<h1 align="center">Hi there! 🙌🏽, I'm Nabil ‍👨🏻‍🦱 A bachelors graduate software Engineer. I am born in the Netherlands. </h1>
 
-- 📚 I’m always trying to improve my skills and work on personal programming projects.
+- I’m always trying to improve my skills in programming.
 
-- 📫  If you're interested in collaborating or just want to connect, feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
+- If you're interested in collaborating or just want to connect, feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
 
-- ⚡ What languages do I speak? I'm  fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
+- I'm fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
 
-- ♋ Fun facts: Outside of coding, I enjoy reading **books** on psychology, self-help and fiction. I also enjoy collecting **perfumes**, practicing **meditation**, and **sports** such as pilates and running.
-
-Don't hesitate to reach out to me even if it's not work-related! We can always chat.
+- Outside of coding.. here's some more info about me: I enjoy reading **books** on psychology, self-help and fiction. I also enjoy collecting **perfumes**, i regularly practice **meditation**, and **sports** such as pilates and running.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
