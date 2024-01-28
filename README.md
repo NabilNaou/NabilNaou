@@ -2,7 +2,7 @@
 
 - I’m always trying to improve my skills in programming.
 
-- If you're interested in collaborating or just want to connect, feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
+-  feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
 
 - I'm fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
 
