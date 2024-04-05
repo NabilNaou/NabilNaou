@@ -6,7 +6,7 @@
 
 - I'm fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
 
-- Outside of coding.. here's some more info about me: I enjoy reading **books** on psychology, self-help and fiction. I also enjoy collecting **perfumes**, i regularly practice **meditation**, and **sports** such as pilates and running.
+- Outside of coding.. here's some more info about me: I enjoy reading **books** such as psychology books, fiction, and history. I regularly practice **meditation**, and **sports** such as pilates and running.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
