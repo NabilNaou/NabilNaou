@@ -1,4 +1,5 @@
-<h1 align="center">I'm Nabil ‍👨🏻‍🦱 A bachelors graduate software Engineer. I am born in the Netherlands. </h1>
+<h1 align="center">My name is Nabil: A graduate software Engineer. </h1>
+<h2 align="center"> I live in the Netherlands. </h2>
 
 A TL:DR about me:
 - I’m always trying to improve my skills in programming.
