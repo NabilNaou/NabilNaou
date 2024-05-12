@@ -5,7 +5,7 @@ A TL:DR about me:
 
 - Feel free to reach out to me on LinkedIn **linkedin.com/in/nabilnaou**.
 
-- I'm fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German** and **Arabic** 🇲🇦.
+- I'm fluent in **English** 🇺🇸 🇬🇧 and **Dutch** 🇳🇱, and have limited experience in **German**.
 
 - Outside of coding.. here's some more info about me: I enjoy reading **books** such as psychology books, fiction, and history. I regularly practice **meditation**, and **sports** such as pilates and running.
 
