@@ -1,7 +1,7 @@
 # Nice to meet you! I'm Nabil 🙋🏻‍♂️
 
 ## A bit about me:
-I am a software engineer who has just graduated, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
+I am a young man who has graduated as a bachelors Software Engineer, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
 
 ### What I Do:
 - **Programming**: Always trying to learn and improve in (new) languages and frameworks.
