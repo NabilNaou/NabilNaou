@@ -1,4 +1,4 @@
-# Hey there! I'm Nabil 🙋🏻‍♂️
+# Nice to meet you! I'm Nabil 🙋🏻‍♂️
 
 ## A bit about me:
 I am a software engineer who has just graduated, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
