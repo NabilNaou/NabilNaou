@@ -13,8 +13,8 @@ Feel free to reach out on [LinkedIn](https://linkedin.com/in/nabilnaou). We can 
 ### Tech Stack:
 A little list of the tools & tech I have used/read into:
 
-- **Frontend**: Good at Angular & React (TypeScript).
-- **Backend**: Knowledgeable in databases.
+- **Frontend**: Knowledge about Angular & React (TypeScript).
+- **Backend**: Knowledge about databases, and limited proficiency with back-end languages.
 - **Languages**:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
