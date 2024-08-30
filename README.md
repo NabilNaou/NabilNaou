@@ -1,20 +1,20 @@
-# Nice to meet you! I'm Nabil 🙋🏻‍♂️
+# 🙋🏻‍♂️
 
-## A bit about me:
-I am a young man who has graduated as a bachelors Software Engineer, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
+## Who I am:
+I am Nabil, graduated as a bachelors Software Engineer, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
 
-### What I Do:
+### Things about me:
 - **Programming**: Always trying to learn and improve in (new) languages and frameworks.
 - **Languages**: Fluent in English 🇺🇸 🇬🇧 and Dutch 🇳🇱, with some knowledge of German.
 - **Interests**: Other than coding, I am interested in books on psychology, fiction, and history. I like meditation and physical activity; I mostly do pilates and jogging.
 
 ### Connect with Me:
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/nabilnaou). Let's get connected and do some chitchat about tech, books, or anything you are interested.
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/nabilnaou). We can chat about tech, books, or anything you are interested in.
 
 ### Tech Stack:
-A little list of the tools and technologies I'm well-read in:
+A little list of the tools & tech I have used/read into:
 
-- **Frontend**: Proven ability to develop responsive, high-performance, and secure frontend solutions with the help of Angular and React.
+- **Frontend**: Good at Angular & React (TypeScript).
 - **Backend**: Knowledgeable in databases.
 - **Languages**:
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,6 +27,6 @@ A little list of the tools and technologies I'm well-read in:
   - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   - ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- **Misc tools**:
+- **Other tools**:
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
