@@ -8,7 +8,7 @@ I am Nabil, graduated as a bachelors Software Engineer, living in the Netherland
 - **Interests**: Other than coding, I am interested in books on psychology, fiction, and history. I like meditation and physical activity; I mostly do pilates and jogging.
 
 ### Connect with Me:
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/nabilnaou). We can chat about tech, books, or anything you are interested in.
+Feel free to reach out and chat to me on [LinkedIn](https://linkedin.com/in/nabilnaou). 
 
 ### Tech Stack:
 A little list of the tools & tech I have used/read into:
