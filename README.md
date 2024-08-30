@@ -1,6 +1,5 @@
 # 🙋🏻‍♂️
 
-## Who I am:
 I am Nabil, graduated as a bachelors Software Engineer, living in the Netherlands. I enjoy developing my programming skills and exploring new technologies.
 
 ### Things about me:
