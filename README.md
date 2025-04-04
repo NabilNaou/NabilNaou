@@ -6,6 +6,9 @@ Im fluent in English 🇺🇸 🇬🇧 and Dutch 🇳🇱, with some knowledge o
 
 Outside of coding, I’m into psychology, and jogging through Dutch weather. I read a lot of books at once and drink way too much tea.
 
+### Reach out here!  -->
+[LinkedIn](https://linkedin.com/in/nabilnaou)
+
 ### Things I have most of my experience with:
 #### Frontend
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -26,5 +29,3 @@ Outside of coding, I’m into psychology, and jogging through Dutch weather. I r
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - A (un)healthy amount of console.log
 
-### Reach out here -->
-[LinkedIn](https://linkedin.com/in/nabilnaou)
