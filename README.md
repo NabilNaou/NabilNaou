@@ -7,7 +7,7 @@ Im fluent in English 🇺🇸 🇬🇧 and Dutch 🇳🇱, with some knowledge o
 Outside of coding, I’m into psychology, and jogging through Dutch weather. I read a lot of books at once and drink way too much tea.
 
 ### Things I have most of my experience with:
-####Frontend
+#### Frontend
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
